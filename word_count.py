@@ -1,4 +1,4 @@
-happy = input("Enter a statement to word count: ")
+happy = input("Enter a to word count: ")
 
 words = happy.split()
 
